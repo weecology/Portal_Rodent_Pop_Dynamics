@@ -2,5 +2,5 @@
 
 Active code space for working on some descriptions of portal rodent population dynamics. 
 
-Functions developed here will likely get shifted over to [`portalr`](github.com/weecology/portalr).
+Functions developed here will likely get shifted over to [`portalr`](https://github.com/weecology/portalr).
 
